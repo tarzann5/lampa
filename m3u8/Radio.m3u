@@ -1,0 +1,206 @@
+#EXTM3U
+
+#EXTINF:0,Радио Orhei FM
+#EXTGRP:1 Radio MD
+http://95.65.49.137:8000/stream.m3u
+
+#EXTINF:0,Ainostri
+#EXTGRP:1 Radio MD
+http://178.168.102.51:8000/ainostri_hd
+#EXTINF:0,Ainostri OLD
+#EXTGRP:1 Radio MD
+http://178.168.102.51:8000/playme.mp3
+#EXTINF:0,Studentus
+#EXTGRP:1 Radio MD
+http://178.168.75.181:8000/md.studentus
+
+#EXTINF:0,Relax
+#EXTGRP:1 Radio MD
+https://stream.dixi.md/RadioRelax
+#EXTINF:0,Relax Tricolor
+#EXTGRP:1 Radio MD
+https://radio1.dixi.md/listen/relax_tricolor/relaxtricolor128.aac
+
+
+#EXTINF:0,Hit FM
+#EXTGRP:1 Radio MD
+https://stream.dixi.md:9443/HitFM_mp3
+#EXTINF:0,Hit FM
+#EXTGRP:1 Radio MD
+https://stream.dixi.md:9443/HitFM
+#EXTINF:0,HIT FM Best Hits
+#EXTGRP:1 Radio MD
+https://radio3.dixi.md/listen/hit_fm_best_hits/hitfm_besthits128.aac
+#EXTINF:0,HIT FM Hot Hits
+#EXTGRP:1 Radio MD
+https://radio3.dixi.md/listen/hit_fm_hot_hits/hitfm_hothits128.aac
+#EXTINF:0,HIT FM Tricolor de Hituri
+#EXTGRP:1 Radio MD
+https://radio3.dixi.md/listen/hit_fm_tricolour/hitfmtricolor128.aac
+
+#EXTINF:0,ROKS
+#EXTGRP:1 Radio MD
+https://stream.dixi.md:9443/Roks
+#EXTINF:0,Radio Zum 1
+#EXTGRP:1 Radio MD
+https://streams.radiozum.md/listen/zum1/ZUM1
+#EXTINF:0,Radio Zum 2
+#EXTGRP:1 Radio MD
+https://streams.radiozum.md/listen/zum2/ZUM2
+#EXTINF:0,Kiss FM
+#EXTGRP:1 Radio MD
+https://live.kissfm.md/kissfm.chisinau
+
+#EXTINF:0,Jurnal FM hq
+#EXTGRP:1 Radio MD
+https://audio.jurnalfm.md/hq
+#EXTINF:0,Jurnal FM lq
+#EXTGRP:1 Radio MD
+https://audio.jurnalfm.md/lq
+
+#EXTINF:0,Studentus
+#EXTGRP:1 Radio MD
+https://www.radio.md/stream/radiostudentus
+
+
+
+
+
+#EXTINF:0,RUS Radio
+#EXTGRP:1 Radio MD
+http://178.168.75.181:8000/md.1037rusradiomold
+#EXTINF:0,Muz FM
+#EXTGRP:1 Radio MD
+http://178.168.75.181:8000/md.880muzfm
+#EXTINF:0,Eco FM
+#EXTGRP:1 Radio MD
+http://178.168.75.181:8000/md.ecofm
+#EXTINF:0,Maestro FM
+#EXTGRP:1 Radio MD
+http://178.168.75.181:8000/md.maestrofm
+#EXTINF:0,Megapolis FM
+#EXTGRP:1 Radio MD
+http://178.168.75.181:8000/md.megapolis
+#EXTINF:0,OmRadio
+#EXTGRP:1 Radio MD
+http://178.168.75.181:8000/md.omradio
+#EXTINF:0,Pro FM
+#EXTGRP:1 Radio MD
+http://178.168.75.181:8000/md.profm
+#EXTINF:0,RadioIasi
+#EXTGRP:1 Radio MD
+http://178.168.75.181:8000/md.radioiasi
+
+
+
+
+
+
+
+#EXTINF:0,Ретро FM MD
+#EXTGRP:1 Radio MD
+https://efir.retrofm.md:8000/retro
+#EXTINF:0,Ретро FM Rus
+#EXTGRP:1 Rus MD
+http://retro.hostingradio.ru:8043/retro256.mp3
+
+#EXTINF:0,Aquarelle FM
+#EXTGRP:1 Radio MD
+https://www.radio.md/stream/aquarellefm
+
+
+
+#EXTINF:0,RFI
+#EXTGRP:1 Radio MD
+https://asculta.radiorfi.ro/live.mp3
+
+
+#EXTINF:0,Maestro FM1
+#EXTGRP:1 Radio MD
+https://maestrofm.md/maestro
+#EXTINF:0,Maestro FM2
+#EXTGRP:1 Radio MD
+http://live.maestrofm.md:8000/maestro
+
+#EXTINF:0,Dance FM
+#EXTGRP:1 Radio MD
+https://stream.mmgmoldova.md:8443/dancefm
+#EXTINF:0,Новое Радио
+#EXTGRP:1 Radio MD
+https://stream.newradio.md:8000/stream
+#EXTINF:0,Radio 7
+#EXTGRP:1 Radio MD
+https://www.radio.md/stream/radio7
+
+#EXTINF:0,Русское Любимое
+#EXTGRP:1 Radio MD
+http://live.ruradio.md:8000/ruradio
+
+
+#EXTINF:0,Megapolis FM1
+#EXTGRP:1 Radio MD
+https://megapolisfm.md:8443/886
+#EXTINF:0,Megapolis FM2
+#EXTGRP:1 Radio MD
+https://megapolisfm.md:8443/886aac
+
+
+#EXTINF:0,Auto Radio
+#EXTGRP:1 Radio MD
+https://streams.radiozum.md/listen/autoradio/autoradio
+#EXTINF:0,Radio Record 1
+#EXTGRP:1 Radio MD
+https://air.radiorecord.md/recordmdhd
+#EXTINF:0,Radio Record 2
+#EXTGRP:1 Radio MD
+https://air.radiorecord.md/RecordMD
+
+
+
+#EXTINF:0,Dar
+#EXTGRP:1 Radio MD
+http://188.138.191.214:8090/RadioDar.m3u
+#EXTINF:0,Dar Source
+#EXTGRP:1 Radio MD
+http://188.138.191.214:8090/RadioDarSource.m3u
+
+
+#EXTINF:0,Plai
+#EXTGRP:1 Radio MD
+http://stream.radioplai.md:8000/live
+#EXTINF:0,Muz FM
+#EXTGRP:1 Radio MD
+http://live.muzfm.md:8000/muzfm
+
+#EXTINF:0,Moldova Tineret
+#EXTGRP:1 Radio MD
+http://radiolive.trm.md:8000/RM-tineret-256
+
+#EXTINF:0,LOVERADIO Chisinau
+#EXTGRP:1 Radio MD
+http://37.233.41.76:8000/lovefm
+
+#EXTINF:0,Русский шансон
+#EXTGRP:1 Radio PMR
+http://217.19.211.252:8022/ShansonPMR
+
+#EXTINF:0,Tiraspol
+#EXTGRP:1 Radio PMR
+https://radio.pgtrk.com:8443/stream
+
+#EXTINF:0,Inter FM Тирасполь
+#EXTGRP:1 Radio PMR
+http://217.19.211.252:8022/InterFM
+
+#EXTINF:0,Inter FM Тирасполь
+#EXTGRP:1 Radio PMR
+https://inter-fm.com/stream
+
+
+#EXTINF:0,Dorojnoe
+#EXTGRP:1 Radio PMR
+https://dorognoe.hostingradio.ru/dorognoe
+
+
+
+
