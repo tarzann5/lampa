@@ -1,0 +1,2 @@
+# lampa
+pentru JS
