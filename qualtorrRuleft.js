@@ -179,7 +179,7 @@
             if (all.length === 0) return callback({ hasUa: false });
 
           //  var uaRx = /(ukr|ua|ukrainian|укр|україн|toloka|mazepa|hurtom|uafilm|бабай|гуртом)/i;
-            var uaRx = /(russian|rus|дубляж|озвучка|многоголосый|русский)/i;
+            var uaRx = /(russian|rus|RUS|Дубляж|RUS-Дубляж|RUS - Дубляж|дубляж|озвучка|многоголосый|русский)/i;
             var yearRx = new RegExp('(^|\\D)' + year + '(\\D|$|\\s)');
 
             var filtered = all.filter(function(i) {
@@ -263,7 +263,7 @@
         if (!movie) return;
         $('.surs_quality_row', render).remove();
         
-        var ldRow = $('<div class="surs_quality_row"><div class="surs_quality_box" style="opacity:0.5">Пошук UA...</div></div>');
+        var ldRow = $('<div class="surs_quality_row"><div class="surs_quality_box" style="opacity:0.5">Cautam Ru...</div></div>');
         injectToUI(ldRow, render);
 
         runSearch(movie, function(res) {
