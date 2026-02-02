@@ -178,7 +178,6 @@
 
             if (all.length === 0) return callback({ hasUa: false });
 
-          //  var uaRx = /(ukr|ua|ukrainian|укр|україн|toloka|mazepa|hurtom|uafilm|бабай|гуртом)/i;
             var uaRx = /(russian|rus|RUS|Дубляж|RUS-Дубляж|RUS - Дубляж|дубляж|озвучка|многоголосый|русский)/i;
             var yearRx = new RegExp('(^|\\D)' + year + '(\\D|$|\\s)');
 
