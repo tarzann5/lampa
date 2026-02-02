@@ -136,7 +136,8 @@
                 var json = JSON.parse(data);
                 if (!Array.isArray(json)) return callback(null);
 
-                var uaRegex = /(?:^|[\s\.\-\/\(\[])(ukr|ua|ukrainian|укр|україн|toloka|mazepa|hurtom|uafilm|бабай|гуртом)(?:$|[\s\.\-\/\)\]])/i;
+       //         var uaRegex = /(?:^|[\s\.\-\/\(\[])(ukr|ua|ukrainian|укр|україн|toloka|mazepa|hurtom|uafilm|бабай|гуртом)(?:$|[\s\.\-\/\)\]])/i;
+                var uaRegex = /(?:^|[\s\.\-\/\(\[])(russian|rus|дубляж|озвучка|многоголосый|русский)(?:$|[\s\.\-\/\)\]])/i;
                 var uaList = [];
 
                 json.forEach(function(item) {
