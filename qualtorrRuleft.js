@@ -41,7 +41,7 @@
     ];
     var PROXY_TIMEOUT = 3000;
 
-    var ICON_UA = 'https://yarikrazor-star.github.io/lmp/ua.svg';
+    var ICON_UA = 'https://tarzann5.github.io/lampa/rus.svg';
     var ICON_NONE = 'https://yarikrazor-star.github.io/lmp/dontknow.svg';
     var ICON_STREAM = 'https://yarikrazor-star.github.io/lmp/stream.svg';
 
