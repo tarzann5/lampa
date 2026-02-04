@@ -2,7 +2,7 @@
   'use strict';
 
   var cardBadgesCache = {};
-  var pluginPath = 'https://raw.githubusercontent.com/FoxStudio24/lampa/main/Quality/';
+  var pluginPath = 'https://raw.githubusercontent.com/tarzann5/lampa/main/Quality/';
 
   var svgIcons = {
     '4K': pluginPath + 'Quality_ico/4K.svg',
@@ -144,3 +144,4 @@
   console.log('[QualityBadges] Запущен');
 
 })();
+
